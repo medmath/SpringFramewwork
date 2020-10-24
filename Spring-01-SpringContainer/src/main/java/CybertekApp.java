@@ -10,7 +10,7 @@ public class CybertekApp {
 // we are gonna use XML Config... we addressed the xml file
         //BeanFactory container = new ClassPathXmlApplicationContext("config.xml");//
 
-
+//Either use BeanFactory or ApplicationContext, but mostly ApplicationContext is used
         ApplicationContext container =new ClassPathXmlApplicationContext("config.xml");
 
 
