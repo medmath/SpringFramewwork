@@ -31,6 +31,7 @@ Class MockInterviewHours implementing ExtraSessions
 Class OfficeHours implementing ExtraSessions
 
 @Component added on top of the classes
+@Autowire: dependency injection
 private  ExtraSessions extraSessions and the method added to method body
  and its constructer added to Java class
 @Qualifier added into Constructer with the bean name(mockInterviewHours or officeHours)

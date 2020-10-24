@@ -12,6 +12,7 @@
         <module name="Spring-02-DI-ConstructerInjection2" />
         <module name="Spring-02-DI-ConstructerInjection1" />
         <module name="Spring-02-DI-SetterInjection" />
+        <module name="Spring-06-JavaCode-Configuration" />
         <module name="Spring-05-JavaAnnotations-Qualifier1" />
         <module name="Spring-05-JavaAnnotations-Qualifier" />
       </profile>
@@ -27,6 +28,7 @@
       <module name="Spring-05-JavaAnnotations-Component" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Qualifier" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Qualifier1" target="1.8" />
+      <module name="Spring-06-JavaCode-Configuration" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
