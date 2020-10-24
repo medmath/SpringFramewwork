@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/Spring-02-DI-ConstructerInjection1/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-02-DI-ConstructerInjection2/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier1/pom.xml" />
       </list>
     </option>
   </component>

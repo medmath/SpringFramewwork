@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-02-DI-SetterInjection" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
         <module name="Spring-05-JavaAnnotations-Component" />
         <module name="Spring-02-DI-ConstructerInjection2" />
         <module name="Spring-02-DI-ConstructerInjection1" />
+        <module name="Spring-02-DI-SetterInjection" />
+        <module name="Spring-05-JavaAnnotations-Qualifier1" />
+        <module name="Spring-05-JavaAnnotations-Qualifier" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,7 +23,10 @@
       <module name="Spring-02-DI-ConstructerInjection2" target="1.8" />
       <module name="Spring-02-DI-SetterInjection" target="1.8" />
       <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.5" />
+      <module name="Spring-05-JavaAnnotations-Autowired" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Component" target="1.8" />
+      <module name="Spring-05-JavaAnnotations-Qualifier" target="1.8" />
+      <module name="Spring-05-JavaAnnotations-Qualifier1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

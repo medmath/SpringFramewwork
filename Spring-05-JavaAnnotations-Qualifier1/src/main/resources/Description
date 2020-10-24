@@ -1,0 +1,38 @@
+There are 2 interfaces and 4 classes
+Class Java is implementing Interface Course
+Class MockInterviewHours and OfficeHours  are implementing ExtraSessions interface
+
+Java class is already implementing Course Interface
+In Java class, We need to get ExtraSessions hours as well.
+But since, ExtraSessions is implemented by 2 classes,
+ we need to select one so we use @Qualifier to introduce which of them to use
+
+
+Structure:
+Create interfaces and classes.
+Into One class: we will be injecting other class objects, to be able to do that, we create objects of
+the interface which are implemented by that classes.
+
+@Component --> provides us needed objects by scanning
+in Config XML we mentioned it to scan all classes wwhich have @Component Annotation
+
+Then created constructors using @Autowired
+into constructer definition we add @qualifier
+public Selenium(@Qualifier("add the bean name to create its bean/object") ExtraSessions extraSessions1)
+use Class name but starting with lower case one..
+
+
+
+Interface Course
+Interface ExtraSessions
+
+Class Java  implementing Course
+Class MockInterviewHours implementing ExtraSessions
+Class OfficeHours implementing ExtraSessions
+
+@Component added on top of the classes
+private  ExtraSessions extraSessions and the method added to method body
+ and its constructer added to Java class
+@Qualifier added into Constructer with the bean name(mockInterviewHours or officeHours)
+
+
