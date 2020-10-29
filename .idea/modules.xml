@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarpetCostCalculator1/CarpetCostCalculator1.iml" filepath="$PROJECT_DIR$/CarpetCostCalculator1/CarpetCostCalculator1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LooselyCoupled/Spring-00-LooselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LooselyCoupled/Spring-00-LooselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
@@ -14,7 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Autowired/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier1/Spring-05-JavaAnnotations-Qualifier1.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier1/Spring-05-JavaAnnotations-Qualifier1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-06-JavaCode-Configuration/Spring-06-JavaCode-Configuration.iml" filepath="$PROJECT_DIR$/Spring-06-JavaCode-Configuration/Spring-06-JavaCode-Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/Spring-07-SpringBoot-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo2/Spring-07-SpringBoot-Demo2.iml" filepath="$PROJECT_DIR$/Spring-07-SpringBoot-Demo2/Spring-07-SpringBoot-Demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringFramewwork.iml" filepath="$PROJECT_DIR$/.idea/SpringFramewwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarpetCostCalculator/med.iml" filepath="$PROJECT_DIR$/CarpetCostCalculator/med.iml" />
     </modules>
   </component>
 </project>
